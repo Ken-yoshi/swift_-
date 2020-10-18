@@ -47,7 +47,6 @@ class ViewController: UIViewController {
             print("音声エラー")
         }
         
-        
         //ジャンケンの手をランダムで変更するための乱数
         var newAnswerNumber = 0
         newAnswerNumber = Int.random(in:0..<3)
