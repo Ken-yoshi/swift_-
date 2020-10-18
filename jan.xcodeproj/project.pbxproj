@@ -16,6 +16,8 @@
 		E343F8852539B43F007EFA54 /* janTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343F8842539B43F007EFA54 /* janTests.swift */; };
 		E343F8902539B43F007EFA54 /* janUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E343F88F2539B43F007EFA54 /* janUITests.swift */; };
 		E343F8A1253B1CA8007EFA54 /* audio_16383.wav in Resources */ = {isa = PBXBuildFile; fileRef = E343F8A0253B1CA7007EFA54 /* audio_16383.wav */; };
+		E343F8B3253C476E007EFA54 /* win.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E343F8B2253C476D007EFA54 /* win.m4a */; };
+		E343F8BB253C477A007EFA54 /* lost.m4a in Resources */ = {isa = PBXBuildFile; fileRef = E343F8BA253C477A007EFA54 /* lost.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		E343F88F2539B43F007EFA54 /* janUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = janUITests.swift; sourceTree = "<group>"; };
 		E343F8912539B43F007EFA54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E343F8A0253B1CA7007EFA54 /* audio_16383.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = audio_16383.wav; sourceTree = "<group>"; };
+		E343F8B2253C476D007EFA54 /* win.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = win.m4a; sourceTree = "<group>"; };
+		E343F8BA253C477A007EFA54 /* lost.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = lost.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +111,9 @@
 				E343F8732539B43B007EFA54 /* Main.storyboard */,
 				E343F8762539B43F007EFA54 /* Assets.xcassets */,
 				E343F8782539B43F007EFA54 /* LaunchScreen.storyboard */,
+				E343F8B2253C476D007EFA54 /* win.m4a */,
 				E343F87B2539B43F007EFA54 /* Info.plist */,
+				E343F8BA253C477A007EFA54 /* lost.m4a */,
 				E343F8A0253B1CA7007EFA54 /* audio_16383.wav */,
 			);
 			path = jan;
@@ -236,7 +242,9 @@
 			files = (
 				E343F87A2539B43F007EFA54 /* LaunchScreen.storyboard in Resources */,
 				E343F8A1253B1CA8007EFA54 /* audio_16383.wav in Resources */,
+				E343F8B3253C476E007EFA54 /* win.m4a in Resources */,
 				E343F8772539B43F007EFA54 /* Assets.xcassets in Resources */,
+				E343F8BB253C477A007EFA54 /* lost.m4a in Resources */,
 				E343F8752539B43B007EFA54 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
